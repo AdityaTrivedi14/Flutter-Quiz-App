@@ -40,6 +40,7 @@ class Result extends StatelessWidget {
             child: Text('Restart Quiz',),
             onPressed: resetHandler,
             // UpdatedEmail For commit
+            // UpdatedEmail For commit2
            )
         ],
       ),
